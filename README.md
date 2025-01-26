@@ -16,11 +16,11 @@ O programa:
 2. Clone este repositório ou copie o código.
 3. Compile o arquivo Java:
    ```bash
-   javac nilo3.java
+   javac diferenteProduto.java
    ```
 4. Execute o programa:
    ```bash
-   java nilo3
+   java diferenteProduto
    ```
 
 ## 🕹️ Como usar
